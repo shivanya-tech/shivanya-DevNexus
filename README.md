@@ -22,6 +22,13 @@ Welcome to my GitHub! I love combining data, Python, and real-world problem-solv
 - A **Hospital managment App** built with Flask (college project) 
 - Data-analyses & visualizations using **Pandas** & **Matplotlib**  
 - Short-form AI-powered tools / automations (streamlit)
+
+  ## 📫 Connect with Me
+
+- **LinkedIn**: [Shivani Vishwakarma](https://www.linkedin.com/in/shivani-vishwakarma-25137028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Blog**: [shivani192 (Hashnode)](https://hashnode.com/@shivani192)  
+- **GitHub**: [shivanya-tech](https://github.com/shivanya-tech)
+
   
 ## 📊 GitHub Stats
 
